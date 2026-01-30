@@ -184,43 +184,57 @@ The UI is designed to feel calm, thoughtful, and reliable — mirroring how a se
 
 ### Home Page  
 
-![Landing](./screenshots/home.png)
+![Home](./screenshots/home.png)
 
 ---
 
 ### Note ADD Page
 
-![Login](./screenshots/noteadd.png)
+![Add](./screenshots/add.png)
 
 ---
 
 ### Note Edit Page
 
-![Login](./screenshots/noteedit.png)
+![Edit](./screenshots/edit.png)
 
----
-
-### Note Delete Page
-
-![Login](./screenshots/notedelete.png)
 
 ---
 
 ### Note Summary Page
 
-![Login](./screenshots/summary.png)
+![Summary](./screenshots/summary.png)
 
 ---
 
 ### Filtering Page
 
-![Login](./screenshots/filter.png)
+![Filter](./screenshots/filter.png)
 
 ---
 
-### Sorting Page
+### Newest First Page
 
-![Login](./screenshots/sort.png)
+![Newest](./screenshots/newest.png)
+
+---
+
+### Oldest First Page
+
+![Oldestl](./screenshots/oldest.png)
+
+---
+
+### A->Z Page (Sorting)
+
+![Login](./screenshots/az.png)
+
+---
+
+### Z->A Page (Sorting)
+
+![Login](./screenshots/za.png)
+
 
 ---
 
