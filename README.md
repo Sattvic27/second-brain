@@ -132,6 +132,7 @@ App runs at:
 `http://localhost:3000`
 
 ---
+
 ## 🗄️ Database
 
 Uses SQLite
@@ -177,6 +178,52 @@ The UI is designed to feel calm, thoughtful, and reliable — mirroring how a se
 
 ---
 
+## 🧩 Screenshots
+
+*Note: The data shown in the screenshots below is pre-inserted for demonstrating features and ensuring a clear visual representation.*
+
+### Home Page  
+
+![Landing](./screenshots/home.png)
+
+---
+
+### Note ADD Page
+
+![Login](./screenshots/noteadd.png)
+
+---
+
+### Note Edit Page
+
+![Login](./screenshots/noteedit.png)
+
+---
+
+### Note Delete Page
+
+![Login](./screenshots/notedelete.png)
+
+---
+
+### Note Summary Page
+
+![Login](./screenshots/summary.png)
+
+---
+
+### Filtering Page
+
+![Login](./screenshots/filter.png)
+
+---
+
+### Sorting Page
+
+![Login](./screenshots/sort.png)
+
+---
+
 ## Future Enhancements (Planned)
 
 - Conversational AI search
@@ -189,9 +236,7 @@ The UI is designed to feel calm, thoughtful, and reliable — mirroring how a se
 
   ## 👨‍💻 Developer
 
-**Satvik Nagare**
-Full-Stack Developer
-📍 India
+**Satvik Nagare** <br>Full-Stack Developer <br>📍 India
 - GitHub: https://github.com/Sattvic27
 - Project: Second Brain
 
