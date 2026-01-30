@@ -239,7 +239,6 @@ The UI is designed to feel calm, thoughtful, and reliable — mirroring how a se
 ---
 
 ## Future Enhancements (Planned)
-
 - Conversational AI search
 - Semantic recall using embeddings
 - Knowledge graph visualization
