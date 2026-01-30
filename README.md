@@ -185,7 +185,9 @@ The UI is designed to feel calm, thoughtful, and reliable — mirroring how a se
 - Cloud database (Supabase / Neon)
 - Auth & multi-user support
 
-  ---👨‍💻 Developer
+  ---
+
+  ## 👨‍💻 Developer
 
 **Satvik Nagare**
 Full-Stack Developer
