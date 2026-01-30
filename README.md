@@ -121,3 +121,90 @@ npm install
 ### 3. Environment Variables
 
 Create a `.env.local` file in the root 
+```bash
+GEMINI_API_KEY=your_api_key_here
+```
+
+### 4. Run the development server
+`npm run dev`
+
+App runs at:
+`http://localhost:3000`
+
+---
+## 🗄️ Database
+
+Uses SQLite
+- Stored locally as notes.db
+- Automatically initialized on first run
+- No manual migration required
+  
+Stored Data
+- Notes content
+- Summaries
+- Tags
+- Creation timestamps
+
+---
+
+## 🔌 API Endpoints
+
+Notes
+
+| Method | Endpoint     | Description           |
+| ------ | ------------ | --------------------- |
+| GET    | `/api/notes` | Fetch all notes       |
+| POST   | `/api/notes` | Create a new note     |
+| PATCH  | `/api/notes` | Update note / summary |
+| DELETE | `/api/notes` | Delete a note         |
+
+Summarization
+
+| Method | Endpoint         | Description         |
+| ------ | ---------------- | ------------------- |
+| POST   | `/api/summarize` | Generate AI summary |
+
+---
+
+## 🎨 UI / UX Principles
+
+- Minimalist & Focused
+- Clear visual hierarchy
+- Motion used to guide attention
+- Desktop-first, mobile-friendly layout
+- Intentional hover & interaction states
+The UI is designed to feel calm, thoughtful, and reliable — mirroring how a second brain should feel.
+
+---
+
+## Future Enhancements (Planned)
+
+- Conversational AI search
+- Semantic recall using embeddings
+- Knowledge graph visualization
+- Cloud database (Supabase / Neon)
+- Auth & multi-user support
+
+  ---👨‍💻 Developer
+
+**Satvik Nagare**
+Full-Stack Developer
+📍 India
+- GitHub: https://github.com/Sattvic27
+- Project: Second Brain
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+📝 Notes
+
+- Designed as a portfolio-grade full-stack project
+- Emphasizes clarity, architecture, and UX polish
+- Built to demonstrate real-world engineering judgment
+
+
